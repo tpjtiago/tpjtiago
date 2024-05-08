@@ -2,6 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpjtiago&layout=compact&theme=tokyonight)
 
 <div style="display: inline_block"<br>
+  <p>My Tech Skills</p>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />  
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />   
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
